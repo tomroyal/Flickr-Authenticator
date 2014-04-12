@@ -1,0 +1,10 @@
+Flickr Authenticator
+-------------
+
+If you're building something with the Flickr API, there's a good chance you'll want to test it out on your own photostream. But to use most methods, you need to authenticate.
+
+To do that properly, use Flickr's OAUTH tools: https://www.flickr.com/services/api/auth.oauth.html
+
+To do it quickly, use this script. It uses the old Flickr Authentication API - you add your API key and secret, it does the rest.
+
+tom@tomroyal.com
